@@ -8,4 +8,5 @@ body {
 video {
   position: absolute;
   object-fit: cover;
+  transform: scaleX(-1);
 }
